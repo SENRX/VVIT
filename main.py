@@ -17,4 +17,4 @@ elif discr == 0:
     x = -b / (2 * a)
     print("x = %.2f" % x)
 else:
-    print("Корней нет")
+    print("Нет корней")
